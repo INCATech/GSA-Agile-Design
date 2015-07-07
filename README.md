@@ -20,7 +20,7 @@ We then assigned the user experience team to create [personas](https://github.co
 Wireframes, Mock-ups and [usability testing](https://github.com/INCATech/GSA-Agile-Design/blob/master/Documents/Pool%201%20Evidence%20Item_g%20Usability%20Test%20Findings.docx) to set user needs [epics and user stories](https://github.com/INCATech/GSA-Agile-Design/blob/master/Documents/Pool_1_Evidence%20Item_b%20Project%20Charter.docx). In parallel the development team was setting up the github repository, code deploy, https://github.com/INCATech/GSA-Agile-Design/blob/master/Documents/Pool%201%20Evidence%20Item_g%20Usability%20Test%20Findings.docx)AWS EC2 and selecting the [technology stack](https://github.com/INCATech/GSA-Agile-Design/blob/master/Documents/Pool%201%20Evidence%20Item_c%20Focus%20Group%20Results.docx) (Play 7,8,9,10,11,12,13)
 
 ### Running the Site Locally
-The local environment must have a webserver(tomcat) and php container(apache) as well as mysql. The application is being ran on a LAMP stack on AWS
+The local environment must have a webserver(tomcat) and php container(apache) as well as mysql. The application is being ran on a LAMP stack on AWS [see document](https://github.com/INCATech/GSA-Agile-Design/blob/master/Documents/Pool%201%20Evidence%20Item_j%20Design%20Prototype%20Installation%20Instructions.docx)
 
 ### Editing the Stylesheets
 This project uses Bootstraps style sheet as a foundation pulled from bootstrap.min.css file. We continued to overlay this style sheet with a custom file called foodwise.css.  Additional CSS is generated from the Font Awesome set used for the button icons.
